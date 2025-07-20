@@ -1,1 +1,1 @@
-# HONEY
+# honey-store
